@@ -4,3 +4,5 @@ def hello():
 
 def bye():
     return "bye"
+
+var = var
